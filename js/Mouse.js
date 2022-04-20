@@ -1,4 +1,3 @@
-//点击特效
 class Circle {
     constructor({ origin, speed, color, angle, context }) {
         this.origin = origin
