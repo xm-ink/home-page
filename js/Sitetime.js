@@ -1,4 +1,3 @@
-//运行时间
 function siteTime() {
   window.setTimeout("siteTime()", 1000);
      var seconds = 1000;
